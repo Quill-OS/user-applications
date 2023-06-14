@@ -8,4 +8,5 @@ Official repo for InkBox OS user applications
 | Maps | Maps app | [Maps.zip](https://github.com/Kobo-InkBox/user-applications/raw/main/download/Maps.zip) | 1.0 | [Szybet/inkbox-maps](https://github.com/Szybet/inkbox-maps) | :heavy_check_mark: | jmfairlie/Szybet/tux-linux | all |
 | QtFrotz | Infocom game interpreter | [QtFrotz.zip](https://github.com/Kobo-InkBox/user-applications/raw/main/download/QtFrotz.zip) | 1.0 | [Kobo-InkBox/QtFrotz](https://github.com/Kobo-InkBox/QtFrotz) | :heavy_check_mark: | [BigBoot](https://www.mobileread.com/forums/member.php?u=230467)/tux-linux | all |
 | Conway | Conway's "Game of life" | [Conway.zip](https://github.com/Kobo-InkBox/user-applications/raw/main/download/Conway.zip) | 1.0 | [Kobo-InkBox/conway](https://github.com/Kobo-InkBox/conway) | :heavy_check_mark: | tucnak/tux-linux | all |
+| FeatherNotes | A note app, uses USB keyboard | [feathernotes.zip](https://github.com/Kobo-InkBox/user-applications/raw/main/download/feathernotes.zip) | 0.1 | [Szybet/FeatherNotes-inkbox](https://github.com/Szybet/FeatherNotes-inkbox) | :heavy_check_mark: | tsujan/Szybet | n306 |
 
