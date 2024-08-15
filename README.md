@@ -1,5 +1,7 @@
 # InkBox user applications
-Official repo for InkBox OS user applications
+## Official repo for InkBox OS user applications
+
+**Note:** apps in the "kobox" folder are meant to be used in KoBox/X11 and not the standard user applications framework.
 
 Devices that are not listed as "supported" may also be able to run the software below, sometimes they have simply not been tested, or some of their features are missing. Your best option is probably to ask the authors.
 
